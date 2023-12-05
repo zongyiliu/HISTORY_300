@@ -5,3 +5,6 @@
 * 1939-45 納粹佔領
 * 1945-85 人民共和國
 * 1985-95 解凍和轉軌
+* 1995-2020 民主化
+
+其他資源: https://fordschool.umich.edu/event/2022/lech-walesa-russias-war-ukraine-and-its-global-impact
