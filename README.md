@@ -1,1 +1,1 @@
-這是我在網上上的歷史課的彙總.
+This folder contains histroy courses I've taken online, mostly from Coursera.
