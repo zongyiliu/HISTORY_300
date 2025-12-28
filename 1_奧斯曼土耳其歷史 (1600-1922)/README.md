@@ -1,3 +1,18 @@
+This was a course I took at the University of Michigan in the winter of 2022, titled "HISTORY 307 – Ottoman History II." The course examined the historical trajectory of the Ottoman Empire after the Siege of Vienna: how it was shaken by external pressures, attempted reforms in response, and ultimately collapsed. Upon the corpse of the old empire arose a new Republic of Turkey, founded on ethnic nationalism and committed wholesale to Westernization as its guiding ideology.
+
+I dropped this course after three weeks. First, the instructor appeared to be too aggresive; and second, the course only deepened my aversion to Turkey. To borrow the words of the Qing dynasty scholar Xu Jishe, one might say:
+
+> The Turks were originally a base and contemptible people of the Muslim frontier.
+They seized the opportunity to rise, multiplied their kind, and amid times of decay and chaos took up arms.
+Relying on military force, they gnawed away east and west like silkworms.
+Thus famed cities were ruined, cultural foundations scattered, written records lost, and refinement extinguished.
+The peoples of three continents were reduced to a state fit only for slaughter,
+trapped in lands of filth and customs rank with stench.
+
+Many people dislike Turkey because it destroyed the Eastern Roman (Byzantine) Empire—a Mediterranean Christian empire that had endured since the eighth century and once held firm control over Asia Minor. In the end, however, it declined under repeated waves of foreign invasion and internal power struggles. From the eleventh century onward, Turkic peoples gradually encroached upon Asia Minor, eventually reducing the Eastern Roman Empire to an isolated city-state and finally extinguishing it in 1453.
+
+Cities that had once flourished—Smyrna, Nicomedia, Ephesus, Antioch, and others—fell under Turkic rule. Although the Greeks made attempts in the nineteenth century to recover their ancestral territories, their national strength was too weak, and these efforts ultimately failed.
+
 ---
 
 這是我在2022年冬季在密歇根大學上的課, 課號為「HISTORY 307 - Ottoman History II」, 講述的是維也納圍城戰後奧斯曼帝國的歷史進程: 它遭受衝擊, 奮起改革以及最終崩潰. 在舊帝國的軀體之上, 一個以民族主義為核心, 全盤西化為綱領的新的土耳其共和國誕生了. 這門課我在3週之後就退了, 第一是這個老師疑似有點超雄了, 第二是這門課加深了我對土耳其對反感. 用清人徐繼畲的話說就是: 
